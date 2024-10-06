@@ -1,0 +1,79 @@
+Welcome to the Roadmap of Game Development*
+* The lawyers want me to make a disclaimer that I am NOT a professional or claiming to be one and I am not making money by you using this roadmap. I am merely an enthusiast for game development and I am finally pursuing a dream that I had as a youngling of becoming a self-taught game developer! And if you are anything like me, you are as well. SO let's do this!
+** Also this is CC BY NC SA- Meaning you may copy/publish/modify and adapt these documents but you aren't allowed to resell for commercial use or change the copyright license. THANK YOU!
+
+This is a free resource that you can use that is helping me learn game development! I'd love to hear about your progress or your questions in my communities, feel free to reach out below:
+
+Discord: https://discord.gg/NMGMp4EFum
+Facebook: https://www.facebook.com/profile.php?id=61566537202256
+Instagram: @Emily.Raelyn
+
+Now, let's get our GAME DEV on!
+1. Understand the basics of Game Development
+   - Game Design Principles
+     * game mechanics
+     * storytelling
+     * level design 
+     * user engagement
+
+   - Types of games
+     * Familiarize yourself with different game genres
+        - NOTE: There are SO many out there, so don't just choose one game and sit there for 5 hours. Get out of your comfort zone and try all kinds of games for a limited amount of time. Read about them or watch videos about them if you don't have the resources to actually play them. 
+
+2. Choose your development path
+  - Game Programming
+  - Game Art
+  - Game Design
+  - Game production
+    * Research about each path and get to know what is the role of them in developing a video game. Indie developers at most times have to be a jack of all trades and/or outsource most of these positions. So keep that in mind if that is something you are interested in. 
+
+3. Learn the programming
+  - Choose an IDE and set up your environment (I personally use VStudio but there is also, Atom and many more)
+  - Choose what programming language you want (C# and C++ are the most popular but there is also, JS for web games and many more)
+  - Learn the basic syntax and programming rules for the language you chose
+
+4. Choose a game engine and set it up
+  - Unity
+  - Unreal Engine
+  - GoDot
+
+5. Learn game dev tools
+  - Version Control (I personally use Git)
+  - Art tools (procreate, blender)
+  - Sound tools (audacity)
+
+6. Create small projects (YAY, finally!)
+  - Start simple games (pong, tetris, etc., I personally recommend cs50 intro to game dev! I loved their course and it's SUPER easy and VERY educational, and guess what... FREEE!)
+  - focus on applying other programming skills
+
+7. Study GD Concepts 
+  - Physics: Physics in Game Engine, Collision Detection, and response
+  - AI: Understand AI concepts for NPC behavior 
+  - Networking: Explore MTP game dev basics
+
+8. Participate in Game Jams
+  - Join events 
+  - Work under pressure
+
+9. Build a portfolio
+  - Document your projects
+  - Create a personal website
+  *** SUPER NOTE- Don't just create clone games from videos or other resources. Actually be creative and do something never thought before.
+
+10. Continue Learning and/or Get to work!
+  - Learn as you code your game idea or if you want to work, sell your skills in online platforms like LinkedIn or Fivr
+  - Course online
+  - books
+  - communities
+
+11. Get feedback and iterate
+  - Share with friends or online
+  - Use the feedback and BE HARSH ON YOURSELF
+
+12. Explore advanced topics 
+  - VR 
+  - AI
+  - Monetization
+
+13. Stay updated!
+  - One thing that I've learned that once you become a 'senior' at any position in life, you tend to lose that focus and initiative that a 'junior' tend to have. So DON'T let that happen to you. KEEP thinking like a 'junior' and be your own harshest critic to get your game out there! Now let's get our GAME DEV on!
